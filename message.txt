@@ -1,0 +1,4 @@
+Dear ${PERSON_NAME}, 
+Following is the list of persons who have been recognized by their faces:
+
+
